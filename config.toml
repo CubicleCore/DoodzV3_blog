@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cubiclecore.github.io/DoodzV3_blog/'
 languageCode = 'en-us'
 title = 'Cubicle Core Blog'
 theme = "bootstrap" 
